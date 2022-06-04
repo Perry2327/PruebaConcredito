@@ -1,0 +1,8 @@
+c:\users\luis.avendano\documents\visual studio 2012\Projects\Rockola\Rockola\bin\Debug\Rockola.exe.config
+c:\users\luis.avendano\documents\visual studio 2012\Projects\Rockola\Rockola\bin\Debug\Rockola.exe
+c:\users\luis.avendano\documents\visual studio 2012\Projects\Rockola\Rockola\bin\Debug\Rockola.pdb
+c:\users\luis.avendano\documents\visual studio 2012\Projects\Rockola\Rockola\obj\Debug\Rockola.Form1.resources
+c:\users\luis.avendano\documents\visual studio 2012\Projects\Rockola\Rockola\obj\Debug\Rockola.Properties.Resources.resources
+c:\users\luis.avendano\documents\visual studio 2012\Projects\Rockola\Rockola\obj\Debug\Rockola.csproj.GenerateResource.Cache
+c:\users\luis.avendano\documents\visual studio 2012\Projects\Rockola\Rockola\obj\Debug\Rockola.exe
+c:\users\luis.avendano\documents\visual studio 2012\Projects\Rockola\Rockola\obj\Debug\Rockola.pdb
