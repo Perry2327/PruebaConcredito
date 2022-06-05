@@ -13,6 +13,10 @@ Se hizo una base de datos calificaciones con alumnos , calificaciones, maestros 
 se generan insert para introducir informacion.
 se genera una consulta para retornar los 10 mejores alumnos con su promedio.
 4. Comandos de linux para hacer una copia de un archivo
-Se agregan los comandos de linux
+Se agregan los comandos de linux:
+1-sincronizamos con rsync para actualizar el archivo de la aplicacion web 
+rsync -a ~/michangarrito/dist/ /var/www/michangarrito
+2-Usamor tar para hacer una copia de seguridad
+tar -czf /home/ubuntu/backups/michangarrito_`date +%Y-%m-%d`.tar.gz -C /var/www/michangarrito/ 
 5. Automatizar boton de busqueda de google
 Se automatizan los puntos que se requieren del boton de busqueda de google, con el framework de cypress.
